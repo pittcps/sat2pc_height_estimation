@@ -13,7 +13,7 @@ In this repository we release the code and data for our paper "sat2Map: Reconstr
 To use this repository you need an environemnt with python 3.7.9. We suggests creating a conda environment with the following command:
 
 ```
-conda create -n "sat2pc" python=3.7.9
+conda create -n "sat2Map" python=3.7.9
 ```
 
 Next, activate the environemnt and cd to the direcotry of the downloaded repository then run the following command:
